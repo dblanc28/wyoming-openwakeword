@@ -1,9 +1,5 @@
 # Changelog
 
-## 1.10.1
-
-- Handle auto-filled audio
-
 ## 1.10.0
 
 - Upgrade to wyoming 1.5.3
@@ -11,6 +7,7 @@
 
 ## 1.9.0
 
+- Bump to bookworm
 - Add tests and Github actions
 - Handle wake word aliases correctly
 - Autofill silence when client connects
@@ -26,6 +23,7 @@
 
 - Include fix for potential deadlock
 - Only process wake words that a client requests
+- armv7 support
 
 ## 1.7.1
 
@@ -55,4 +53,5 @@
 ## 1.1.0
 
 - Initial release
+
 
